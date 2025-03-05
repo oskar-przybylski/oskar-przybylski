@@ -14,6 +14,7 @@ Backend developer programming in **C** and **Java**. Currently, I am learning **
 ## 🔧 Tools  
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![RayLib](https://img.shields.io/badge/Raylib-000000?style=for-the-badge&logo=raylib&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![LM Studio](https://img.shields.io/badge/LM_Studio-FF6F00?style=for-the-badge&logo=openai&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
