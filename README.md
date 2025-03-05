@@ -24,5 +24,4 @@ Backend developer programming in **C** and **Java**. Currently, I am learning **
 📫 **How to reach me?**  
 Feel free to reach out if you have any questions or just want to chat!  
 
-📩 [Email](mailto:your.email@example.com)  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
+📩 [Email](mailto:ncsmusic@icloud.com)  
